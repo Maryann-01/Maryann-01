@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Amaraizu Mmesoma Maryann</h1>
-<h3 align="center">A frontend web developer fueling curiosity and igniting creativity through coding</h3>
+<h1 align="center">Hi 👋, I'm Mmesoma Maryann Amaraizu</h1>
+<h3 align="center">A frontend web developer and AI Enthusiast</h3>
 <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" align="right" alt="Coding lady" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryann-01&label=Profile%20views&color=0e75b6&style=flat" alt="maryann-01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@soma_maryann" target="blank"><img src="https://img.shields.io/twitter/follow/soma_maryann?logo=twitter&style=for-the-badge" alt="@soma_maryann" /></a> </p>
 
-- 🌱 I’m currently learning **TailwindCSS,Javascript,ReactJs**
+- 🌱 I’m currently learning **Machine learning while developing my frontend skills**
 
 - 📝 I write articles on [https://hashnode.com/@SomaMaryann](https://hashnode.com/@SomaMaryann)
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **amaraizummesoma@gmail.com**
 
-- ⚡ Fun fact **I love learning. When I'm not learning, you can find me exploring new dishes, visiting beautiful places and perfecting the art of taking selfies. I believe in capturing the moments that bring joy and sharing them with the world.**
+- ⚡ Fun fact **I love learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
